@@ -2,4 +2,3 @@
 
 Learning github with -20c! 
 
-![hello](http://gph.is/1bIeuqq)
